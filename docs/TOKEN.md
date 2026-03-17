@@ -376,7 +376,7 @@ Token holders should:
 - 🌐 **Website**: https://antagent.io
 - 📧 **Email**: token@antagent.io
 - 💬 **Discord**: https://discord.gg/antagent
-- 🐦 **Twitter**: https://twitter.com/antagent_io
+- 𝕏 **X (Twitter)**: [Join Community](https://x.com/i/communities/2033943686921466043)
 - 📱 **Telegram**: https://t.me/antagent
 
 ---

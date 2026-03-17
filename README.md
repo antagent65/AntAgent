@@ -990,7 +990,7 @@ Join our growing community:
 
 - 🌐 **Website**: [antagent.io](https://antagent.io)
 - 💬 **Discord**: [discord.gg/antagent](https://discord.gg/antagent)
-- 🐦 **Twitter**: [@antagent_io](https://twitter.com/antagent_io)
+- 𝕏 **X (Twitter)**: [Join Community](https://x.com/i/communities/2033943686921466043)
 - 📱 **Telegram**: [t.me/antagent](https://t.me/antagent)
 - 📧 **Email**: contact@antagent.io
 
