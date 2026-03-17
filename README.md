@@ -329,14 +329,25 @@ ANT AGENT delivers OpenClaw power through an intuitive web interface:
 
 The $ANT token integrates deeply with the OpenClaw-powered system:
 
+### 🚀 Launch Platform: Pump.fun
+
+ANT AGENT launches on **[Pump.fun](https://pump.fun)** - the most popular token launch platform on Solana.
+
+- ✅ **Fair Launch**: No presale, no team allocation
+- ✅ **100% Community**: All 1,000,000,000 tokens available to community
+- ✅ **Auto-Liquidity**: Bonding curve completes → Raydium migration
+- ✅ **Safe & Secure**: LP tokens burned, no rug pulls
+
 ### Token Economics
 
 | Parameter | Value |
 |-----------|-------|
 | Token Standard | SPL (Solana) |
-| Total Supply | 1,000,000,000 $ANT |
-| Circulating | 250,000,000 $ANT |
+| **Total Supply** | **1,000,000,000 $ANT (1 Billion)** |
+| **Circulating** | **1,000,000,000 $ANT (100%)** |
 | Decimals | 9 |
+| Launch Platform | [Pump.fun](https://pump.fun) |
+| Post-Launch | Raydium DEX |
 
 ### Utility Functions
 

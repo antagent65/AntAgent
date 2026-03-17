@@ -4,6 +4,8 @@
 
 The $ANT token is the native utility token of the ANT AGENT ecosystem, built on the Solana blockchain as an SPL token. It serves as the backbone of the platform's economy, enabling access to premium features, governance participation, and revenue sharing.
 
+**🚀 Launch Platform: [Pump.fun](https://pump.fun)**
+
 ---
 
 ## Token Information
@@ -13,41 +15,86 @@ The $ANT token is the native utility token of the ANT AGENT ecosystem, built on 
 | **Token Name** | ANT AGENT Token |
 | **Symbol** | $ANT |
 | **Token Standard** | SPL (Solana Program Library) |
-| **Total Supply** | 1,000,000,000 $ANT |
-| **Circulating Supply** | 250,000,000 $ANT (25%) |
+| **Total Supply** | 1,000,000,000 $ANT (1 Billion) |
+| **Circulating Supply** | 1,000,000,000 $ANT (100%) |
 | **Decimals** | 9 |
 | **Blockchain** | Solana |
-| **Token Type** | Utility + Governance |
+| **Token Type** | Utility + Meme + Governance |
+| **Launch Platform** | [Pump.fun](https://pump.fun) |
+| **Liquidity** | Auto-migrated to Raydium after bonding curve |
+
+---
+
+## 🚀 Pump.fun Launch Details
+
+### Launch Strategy
+
+ANT AGENT will launch on **Pump.fun**, the most popular token launch platform on Solana, ensuring:
+
+- ✅ **Fair Launch**: No presale, no team allocation, everyone has equal opportunity
+- ✅ **Instant Liquidity**: Automatic market making via bonding curve
+- ✅ **Safe & Secure**: No rug pulls, liquidity locked automatically
+- ✅ **Community First**: 100% of supply available to the community
+
+### Pump.fun Bonding Curve
+
+```
+┌─────────────────────────────────────────────────────────┐
+│              PUMP.FUN BONDING CURVE                      │
+├─────────────────────────────────────────────────────────┤
+│                                                          │
+│  Initial Market Cap:     ~$60,000 - $80,000             │
+│  Completion Market Cap:  ~$60,000,000                   │
+│  Liquidity Migration:    Automatic at curve completion  │
+│  Target Platform:        Raydium                        │
+│                                                          │
+└─────────────────────────────────────────────────────────┘
+```
+
+### How to Buy on Pump.fun
+
+1. **Visit**: Go to [pump.fun](https://pump.fun) and search for $ANT
+2. **Connect Wallet**: Use Phantom, Solflare, or any Solana wallet
+3. **Swap SOL for $ANT**: Enter amount and confirm transaction
+4. **Hold & Trade**: Tokens are instantly in your wallet
+
+### Post-Launch Migration
+
+Once the bonding curve completes:
+
+1. **Automatic Migration**: Liquidity moves to Raydium
+2. **LP Tokens Burned**: Permanent liquidity lock
+3. **Trading Continues**: Seamless transition to DEX trading
 
 ---
 
 ## Token Distribution
 
-### Allocation Breakdown
+### Fair Launch Allocation
 
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                  $ANT TOKEN DISTRIBUTION                 │
 ├─────────────────────────────────────────────────────────┤
 │                                                          │
-│  🏦 Ecosystem & Rewards      35%    350,000,000 $ANT   │
-│  👥 Community & Airdrops     25%    250,000,000 $ANT   │
-│  🚀 Public Sale              15%    150,000,000 $ANT   │
-│  🔒 Team & Advisors          15%    150,000,000 $ANT   │
-│  💼 Private Sale             10%    100,000,000 $ANT   │
+│  🌐 Community (Pump.fun)    100%    1,000,000,000 $ANT │
+│                                                          │
+│  ❌ No Team Allocation                                   │
+│  ❌ No Presale                                           │
+│  ❌ No VC Allocation                                     │
+│  ❌ No Private Sale                                      │
 │                                                          │
 └─────────────────────────────────────────────────────────┘
 ```
 
-### Vesting Schedule
+### Why 100% Community?
 
-| Allocation | Vesting Period | Cliff | Release Schedule |
-|------------|----------------|-------|------------------|
-| **Ecosystem** | 48 months | None | Linear monthly |
-| **Community** | 24 months | None | Based on milestones |
-| **Public Sale** | Unlocked at TGE | - | 100% at launch |
-| **Team** | 48 months | 12 months | 25% after cliff, then monthly |
-| **Private Sale** | 12 months | 6 months | 50% after cliff, then monthly |
+| Principle | Description |
+|-----------|-------------|
+| **Fair Launch** | Everyone gets equal opportunity to buy |
+| **No Insider Advantage** | No team tokens, no early investors |
+| **Decentralized** | Community owns and governs the project |
+| **Transparent** | All tokens distributed via public launch |
 
 ---
 
